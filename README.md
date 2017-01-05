@@ -1,7 +1,7 @@
 # Photoshop scripts to assist in the development of Gamma (https://github.com/lovecomm/gamma) projects
 
 ## Installing the Scripts
-Put the jsx files in `~/Applications/Adobe Photoshop CC 20**/Presets/Scripts/`
+Put the jsx files in `/Applications/Adobe Photoshop CC 20**/Presets/Scripts/`
 After restarting Photoshop the Script should be available under File > Scripts and can be assigned a Keyboard Shortcut 
 
 ## Setup
