@@ -1,7 +1,7 @@
 ﻿#target photoshop
 // Export each static banner, and each image layer in preperation for a Gamma project (https://github.com/lovecomm/gamma)
 var destLayers = new Folder(activeDocument.path + '/../assets/images/')
-var destStatics = new Folder(activeDocument.path + '/../assets/failovers/')
+var destStatics = new Folder(activeDocument.path + '/../assets/statics/')
 var doc = activeDocument;
 if (!destLayers.exists) {
     destLayers.create();
